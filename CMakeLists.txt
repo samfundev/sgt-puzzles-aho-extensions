@@ -16,12 +16,12 @@ puzzle(alphacrypt
 
 puzzle(identifier
   DISPLAYNAME "Identifier"
-  DESCRIPTION "Find the forms and locations of shapes in a board"
+  DESCRIPTION "Find the locations of shapes in a board"
   OBJECTIVE "Similar to Battleships, but with arbitrary shapes")
 
 puzzle(supermaze
   DISPLAYNAME "Supermaze"
-  DESCRIPTION "Various types of stateful or high dimensional mazes"
+  DESCRIPTION "Various types of high dimensional mazes"
   OBJECTIVE "Find your way through the Supermazes, i.e mazes with states")
 
 export_variables_to_parent_scope()
